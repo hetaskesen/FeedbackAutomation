@@ -1,2 +1,2 @@
 # FeedbackAutomation
-Project for summer internship with non profit
+Project for a non profit
